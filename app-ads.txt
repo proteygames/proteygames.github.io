@@ -246,3 +246,5 @@ axonix.com, 56051, RESELLER
 cmcm.com, 104, RESELLER
 cmcm.com, 72, RESELLER
 webeyemob.com, 70085, RESELLER
+
+google.com, pub-2000636324465531, DIRECT, f08c47fec0942fa0
