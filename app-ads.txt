@@ -3,7 +3,7 @@ appodeal.com, 26284, DIRECT
 #BidMachine
 bidmachine.io, 26284, DIRECT
 #AdMob
-#Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, pub-2000636324465531, DIRECT, f08c47fec0942fa0
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
@@ -246,5 +246,3 @@ axonix.com, 56051, RESELLER
 cmcm.com, 104, RESELLER
 cmcm.com, 72, RESELLER
 webeyemob.com, 70085, RESELLER
-
-google.com, pub-2000636324465531, DIRECT, f08c47fec0942fa0
