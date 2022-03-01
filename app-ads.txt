@@ -1,3 +1,5 @@
+#ADMOB Section
+google.com, pub-2000636324465531, DIRECT, f08c47fec0942fa0
 #Appodeal
 appodeal.com, 26284, DIRECT
 #BidMachine
